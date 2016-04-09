@@ -1,0 +1,11 @@
+/node_modules
+bundle.js
+npm-debug.log
+
+# Environment vars
+.env
+
+# Vim
+*~
+*.swp
+*.swo
